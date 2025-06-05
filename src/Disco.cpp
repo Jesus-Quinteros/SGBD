@@ -739,3 +739,4 @@ void Disco::consultarRelacionCondicional(
   }
   insertarRegistrosSinCabecera(archivoSalida, nombreRelacion);
 }
+
